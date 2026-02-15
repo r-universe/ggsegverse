@@ -9,6 +9,9 @@
 [submodule "ggseg"]
 	path = ggseg
 	url = https://github.com/ggseg/ggseg
+[submodule "ggseg.extra"]
+	path = ggseg.extra
+	url = https://github.com/ggseg/ggseg.extra
 [submodule "ggseg.formats"]
 	path = ggseg.formats
 	url = https://github.com/ggseg/ggseg.formats
@@ -48,9 +51,6 @@
 [submodule "ggsegEconomo"]
 	path = ggsegEconomo
 	url = https://github.com/ggseg/ggsegEconomo
-[submodule "ggsegExtra"]
-	path = ggsegExtra
-	url = https://github.com/ggseg/ggsegExtra
 [submodule "ggsegFlechsig"]
 	path = ggsegFlechsig
 	url = https://github.com/ggseg/ggsegFlechsig
