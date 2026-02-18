@@ -8,85 +8,85 @@
 	branch = refactor
 [submodule "ggseg"]
 	path = ggseg
-	url = https://github.com/ggseg/ggseg
+	url = https://github.com/ggsegverse/ggseg
 [submodule "ggseg.extra"]
 	path = ggseg.extra
-	url = https://github.com/ggseg/ggseg.extra
+	url = https://github.com/ggsegverse/ggseg.extra
 [submodule "ggseg.formats"]
 	path = ggseg.formats
-	url = https://github.com/ggseg/ggseg.formats
+	url = https://github.com/ggsegverse/ggseg.formats
 [submodule "ggseg.hub"]
 	path = ggseg.hub
-	url = https://github.com/ggseg/ggseg.hub
+	url = https://github.com/ggsegverse/ggseg.hub
 [submodule "ggseg3d"]
 	path = ggseg3d
-	url = https://github.com/ggseg/ggseg3d
+	url = https://github.com/ggsegverse/ggseg3d
 [submodule "ggsegAal"]
 	path = ggsegAal
-	url = https://github.com/ggseg/ggsegAal
+	url = https://github.com/ggsegverse/ggsegAal
 [submodule "ggsegAicha"]
 	path = ggsegAicha
-	url = https://github.com/ggseg/ggsegAicha
+	url = https://github.com/ggsegverse/ggsegAicha
 [submodule "ggsegArslan"]
 	path = ggsegArslan
-	url = https://github.com/ggseg/ggsegArslan
+	url = https://github.com/ggsegverse/ggsegArslan
 [submodule "ggsegBrainnetome"]
 	path = ggsegBrainnetome
-	url = https://github.com/ggseg/ggsegBrainnetome
+	url = https://github.com/ggsegverse/ggsegBrainnetome
 [submodule "ggsegBrodmann"]
 	path = ggsegBrodmann
-	url = https://github.com/ggseg/ggsegBrodmann
+	url = https://github.com/ggsegverse/ggsegBrodmann
 [submodule "ggsegCampbell"]
 	path = ggsegCampbell
-	url = https://github.com/ggseg/ggsegCampbell
+	url = https://github.com/ggsegverse/ggsegCampbell
 [submodule "ggsegChen"]
 	path = ggsegChen
-	url = https://github.com/ggseg/ggsegChen
+	url = https://github.com/ggsegverse/ggsegChen
 [submodule "ggsegDKT"]
 	path = ggsegDKT
-	url = https://github.com/ggseg/ggsegDKT
+	url = https://github.com/ggsegverse/ggsegDKT
 [submodule "ggsegDesterieux"]
 	path = ggsegDesterieux
-	url = https://github.com/ggseg/ggsegDesterieux
+	url = https://github.com/ggsegverse/ggsegDesterieux
 [submodule "ggsegEconomo"]
 	path = ggsegEconomo
-	url = https://github.com/ggseg/ggsegEconomo
+	url = https://github.com/ggsegverse/ggsegEconomo
 [submodule "ggsegFlechsig"]
 	path = ggsegFlechsig
-	url = https://github.com/ggseg/ggsegFlechsig
+	url = https://github.com/ggsegverse/ggsegFlechsig
 [submodule "ggsegGlasser"]
 	path = ggsegGlasser
-	url = https://github.com/ggseg/ggsegGlasser
+	url = https://github.com/ggsegverse/ggsegGlasser
 [submodule "ggsegGordon"]
 	path = ggsegGordon
-	url = https://github.com/ggseg/ggsegGordon
+	url = https://github.com/ggsegverse/ggsegGordon
 [submodule "ggsegHO"]
 	path = ggsegHO
-	url = https://github.com/ggseg/ggsegHO
+	url = https://github.com/ggsegverse/ggsegHO
 [submodule "ggsegICBM"]
 	path = ggsegICBM
-	url = https://github.com/ggseg/ggsegICBM
+	url = https://github.com/ggsegverse/ggsegICBM
 [submodule "ggsegIca"]
 	path = ggsegIca
-	url = https://github.com/ggseg/ggsegIca
+	url = https://github.com/ggsegverse/ggsegIca
 [submodule "ggsegJHU"]
 	path = ggsegJHU
-	url = https://github.com/ggseg/ggsegJHU
+	url = https://github.com/ggsegverse/ggsegJHU
 [submodule "ggsegKleist"]
 	path = ggsegKleist
-	url = https://github.com/ggseg/ggsegKleist
+	url = https://github.com/ggsegverse/ggsegKleist
 [submodule "ggsegPower"]
 	path = ggsegPower
-	url = https://github.com/ggseg/ggsegPower
+	url = https://github.com/ggsegverse/ggsegPower
 [submodule "ggsegSchaefer"]
 	path = ggsegSchaefer
-	url = https://github.com/ggseg/ggsegSchaefer
+	url = https://github.com/ggsegverse/ggsegSchaefer
 [submodule "ggsegTracula"]
 	path = ggsegTracula
-	url = https://github.com/ggseg/ggsegTracula
+	url = https://github.com/ggsegverse/ggsegTracula
 [submodule "ggsegYeo2011"]
 	path = ggsegYeo2011
-	url = https://github.com/ggseg/ggsegYeo2011
+	url = https://github.com/ggsegverse/ggsegYeo2011
 [submodule "neuromapr"]
 	path = neuromapr
 	url = https://github.com/lcbc-uio/neuromapr
