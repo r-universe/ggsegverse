@@ -15,9 +15,6 @@
 [submodule "ggseg.formats"]
 	path = ggseg.formats
 	url = https://github.com/ggsegverse/ggseg.formats
-[submodule "ggseg.hub"]
-	path = ggseg.hub
-	url = https://github.com/ggsegverse/ggseg.hub
 [submodule "ggseg3d"]
 	path = ggseg3d
 	url = https://github.com/ggsegverse/ggseg3d
@@ -45,9 +42,9 @@
 [submodule "ggsegDKT"]
 	path = ggsegDKT
 	url = https://github.com/ggsegverse/ggsegDKT
-[submodule "ggsegDesterieux"]
-	path = ggsegDesterieux
-	url = https://github.com/ggsegverse/ggsegDesterieux
+[submodule "ggsegDestrieux"]
+	path = ggsegDestrieux
+	url = https://github.com/ggsegverse/ggsegDestrieux
 [submodule "ggsegEconomo"]
 	path = ggsegEconomo
 	url = https://github.com/ggsegverse/ggsegEconomo
