@@ -9,17 +9,14 @@
 [submodule "ggseg"]
 	path = ggseg
 	url = https://github.com/ggsegverse/ggseg
-[submodule "ggseg.extra"]
-	path = ggseg.extra
-	url = https://github.com/ggsegverse/ggseg.extra
 [submodule "ggseg.formats"]
 	path = ggseg.formats
 	url = https://github.com/ggsegverse/ggseg.formats
 [submodule "ggseg3d"]
 	path = ggseg3d
 	url = https://github.com/ggsegverse/ggseg3d
-[submodule "ggsegAal"]
-	path = ggsegAal
+[submodule "ggsegAAL"]
+	path = ggsegAAL
 	url = https://github.com/ggsegverse/ggsegAal
 [submodule "ggsegAicha"]
 	path = ggsegAicha
@@ -48,6 +45,9 @@
 [submodule "ggsegEconomo"]
 	path = ggsegEconomo
 	url = https://github.com/ggsegverse/ggsegEconomo
+[submodule "ggsegExtra"]
+	path = ggsegExtra
+	url = https://github.com/ggsegverse/ggseg.extra
 [submodule "ggsegFlechsig"]
 	path = ggsegFlechsig
 	url = https://github.com/ggsegverse/ggsegFlechsig
