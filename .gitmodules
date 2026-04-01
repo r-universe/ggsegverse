@@ -30,12 +30,6 @@
 [submodule "ggsegBrainnetome"]
 	path = ggsegBrainnetome
 	url = https://github.com/ggsegverse/ggsegBrainnetome
-[submodule "ggsegBrodmann"]
-	path = ggsegBrodmann
-	url = https://github.com/ggsegverse/ggsegBrodmann
-[submodule "ggsegCampbell"]
-	path = ggsegCampbell
-	url = https://github.com/ggsegverse/ggsegCampbell
 [submodule "ggsegChen"]
 	path = ggsegChen
 	url = https://github.com/ggsegverse/ggsegChen
@@ -45,12 +39,6 @@
 [submodule "ggsegDestrieux"]
 	path = ggsegDestrieux
 	url = https://github.com/ggsegverse/ggsegDestrieux
-[submodule "ggsegEconomo"]
-	path = ggsegEconomo
-	url = https://github.com/ggsegverse/ggsegEconomo
-[submodule "ggsegFlechsig"]
-	path = ggsegFlechsig
-	url = https://github.com/ggsegverse/ggsegFlechsig
 [submodule "ggsegGlasser"]
 	path = ggsegGlasser
 	url = https://github.com/ggsegverse/ggsegGlasser
@@ -60,6 +48,9 @@
 [submodule "ggsegHO"]
 	path = ggsegHO
 	url = https://github.com/ggsegverse/ggsegHO
+[submodule "ggsegHistorical"]
+	path = ggsegHistorical
+	url = https://github.com/ggsegverse/ggsegHistorical
 [submodule "ggsegICBM"]
 	path = ggsegICBM
 	url = https://github.com/ggsegverse/ggsegICBM
@@ -69,9 +60,6 @@
 [submodule "ggsegJHU"]
 	path = ggsegJHU
 	url = https://github.com/ggsegverse/ggsegJHU
-[submodule "ggsegKleist"]
-	path = ggsegKleist
-	url = https://github.com/ggsegverse/ggsegKleist
 [submodule "ggsegPower"]
 	path = ggsegPower
 	url = https://github.com/ggsegverse/ggsegPower
