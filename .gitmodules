@@ -33,12 +33,9 @@
 [submodule "ggsegChen"]
 	path = ggsegChen
 	url = https://github.com/ggsegverse/ggsegChen
-[submodule "ggsegDKT"]
-	path = ggsegDKT
-	url = https://github.com/ggsegverse/ggsegDKT
-[submodule "ggsegDestrieux"]
-	path = ggsegDestrieux
-	url = https://github.com/ggsegverse/ggsegDestrieux
+[submodule "ggsegFreeSurfer"]
+	path = ggsegFreeSurfer
+	url = https://github.com/ggsegverse/ggsegFreeSurfer
 [submodule "ggsegGlasser"]
 	path = ggsegGlasser
 	url = https://github.com/ggsegverse/ggsegGlasser
@@ -51,9 +48,6 @@
 [submodule "ggsegHistorical"]
 	path = ggsegHistorical
 	url = https://github.com/ggsegverse/ggsegHistorical
-[submodule "ggsegICBM"]
-	path = ggsegICBM
-	url = https://github.com/ggsegverse/ggsegICBM
 [submodule "ggsegIca"]
 	path = ggsegIca
 	url = https://github.com/ggsegverse/ggsegIca
