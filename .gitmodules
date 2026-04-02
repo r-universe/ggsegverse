@@ -30,6 +30,9 @@
 [submodule "ggsegBrainnetome"]
 	path = ggsegBrainnetome
 	url = https://github.com/ggsegverse/ggsegBrainnetome
+[submodule "ggsegCerebellum"]
+	path = ggsegCerebellum
+	url = https://github.com/ggsegverse/ggsegCerebellum
 [submodule "ggsegChen"]
 	path = ggsegChen
 	url = https://github.com/ggsegverse/ggsegChen
@@ -57,6 +60,9 @@
 [submodule "ggsegPower"]
 	path = ggsegPower
 	url = https://github.com/ggsegverse/ggsegPower
+[submodule "ggsegSUIT"]
+	path = ggsegSUIT
+	url = https://github.com/ggsegverse/ggsegSUIT
 [submodule "ggsegSchaefer"]
 	path = ggsegSchaefer
 	url = https://github.com/ggsegverse/ggsegSchaefer
