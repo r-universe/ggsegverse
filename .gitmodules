@@ -15,6 +15,9 @@
 [submodule "ggseg.formats"]
 	path = ggseg.formats
 	url = https://github.com/ggsegverse/ggseg.formats
+[submodule "ggseg.meshes"]
+	path = ggseg.meshes
+	url = https://github.com/ggsegverse/ggseg.meshes
 [submodule "ggseg3d"]
 	path = ggseg3d
 	url = https://github.com/ggsegverse/ggseg3d
