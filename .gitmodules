@@ -69,9 +69,6 @@
 [submodule "ggsegSchaefer"]
 	path = ggsegSchaefer
 	url = https://github.com/ggsegverse/ggsegSchaefer
-[submodule "ggsegTracula"]
-	path = ggsegTracula
-	url = https://github.com/ggsegverse/ggsegTracula
 [submodule "ggsegYeo2011"]
 	path = ggsegYeo2011
 	url = https://github.com/ggsegverse/ggsegYeo2011
