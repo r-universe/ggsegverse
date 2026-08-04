@@ -63,9 +63,6 @@
 [submodule "ggsegPower"]
 	path = ggsegPower
 	url = https://github.com/ggsegverse/ggsegPower
-[submodule "ggsegSUIT"]
-	path = ggsegSUIT
-	url = https://github.com/ggsegverse/ggsegSUIT
 [submodule "ggsegSchaefer"]
 	path = ggsegSchaefer
 	url = https://github.com/ggsegverse/ggsegSchaefer
