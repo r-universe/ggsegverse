@@ -30,6 +30,9 @@
 [submodule "ggsegArslan"]
 	path = ggsegArslan
 	url = https://github.com/ggsegverse/ggsegArslan
+[submodule "ggsegAtlasTrack"]
+	path = ggsegAtlasTrack
+	url = https://github.com/ggsegverse/ggsegAtlasTrack
 [submodule "ggsegBrainnetome"]
 	path = ggsegBrainnetome
 	url = https://github.com/ggsegverse/ggsegBrainnetome
