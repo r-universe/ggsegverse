@@ -4,8 +4,7 @@
 	branch = HEAD
 [submodule "freesurfer"]
 	path = freesurfer
-	url = https://github.com/drmowinckels/freesurfer
-	branch = refactor
+	url = https://github.com/muschellij2/freesurfer
 [submodule "ggseg"]
 	path = ggseg
 	url = https://github.com/ggsegverse/ggseg
@@ -63,6 +62,9 @@
 [submodule "ggsegJHU"]
 	path = ggsegJHU
 	url = https://github.com/ggsegverse/ggsegJHU
+[submodule "ggsegMiccai"]
+	path = ggsegMiccai
+	url = https://github.com/ggsegverse/ggsegMiccai
 [submodule "ggsegPower"]
 	path = ggsegPower
 	url = https://github.com/ggsegverse/ggsegPower
